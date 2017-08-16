@@ -1,3 +1,9 @@
 [submodule "submodule_demo"]
 	path = submodule_demo
 	url = git@github.com:naiqing-song/submodule_demo.git
+[submodule "submodule_using_clone"]
+	path = submodule_demo
+	url = git@github.com:naiqing-song/submodule_demo.git
+[submodule "dependancy/submodule_demo"]
+	path = dependancy/submodule_demo
+	url = git@github.com:naiqing-song/submodule_demo.git
